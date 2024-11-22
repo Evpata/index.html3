@@ -1,0 +1,20 @@
+.one{
+    border: 2px solid black;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    flex-direction: row;
+    justify-content: center;
+}
+.imgOne{
+    width: 100px;
+    height: 70px;
+}
+.one{
+    border: 2px solid black;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    flex-direction: row;
+    justify-content: center;
+}
